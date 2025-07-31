@@ -5,7 +5,7 @@ class Manager {
 }
 
 class Employee extends Manager {
-    void Work1() {
+    void Work() {
         System.out.println("employee does the work on the motive of finishing the work");
     }
 }
